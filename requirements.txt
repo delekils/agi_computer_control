@@ -8,5 +8,6 @@ mss
 opencv-python
 pydantic-numpy
 hypothesis
-stopit
-keysymdef
+stopitkeysymdef
+Flask
+Flask-SocketIO
